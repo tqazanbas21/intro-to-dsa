@@ -9,7 +9,7 @@ This is an array based implementation of Stack, i.e. static one. This data strut
 
 One of the best features of stack is that its main methods have O(1) complexity. Stack can be useful in variety of sectors such as CPU scheduling, memory management and so on. It is also used to store the actions history and apparently, can be used to perform arithmetic operations (e.g. using reversed polish notation).
 
-![Stack main operations diagram]("../images/stack.jpg "Stack main operations") [1]
+![Stack main operations diagram]("stack.jpg "Stack main operations") [1]
 
 ---
 
