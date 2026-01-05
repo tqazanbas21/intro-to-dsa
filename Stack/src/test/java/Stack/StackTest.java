@@ -34,6 +34,8 @@ public class StackTest {
 	assertEquals(1, st.size());
 	st.push(2);
 	assertEquals(2, st.size());
+	st.pop();
+	assertEquals(1, st.size());
     }
     
     @Test(expected=StackException.class)
